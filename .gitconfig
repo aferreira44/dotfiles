@@ -1,0 +1,7 @@
+[user]
+	email = contato@andreferreira.me
+	name = André Ferreira
+[core]
+	editor = vim
+[credential]
+	helper = store
